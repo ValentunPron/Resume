@@ -181,6 +181,11 @@ body {
     color:#19c6dd;
 }
 
+.subtitle {
+    margin: 15px 0 5px 0;
+    font-size: 20px;
+}
+
 /* Contact Section */
 
 .contact__text {
